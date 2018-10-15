@@ -1,2 +1,2 @@
-# ecarter.github.io
-nothing to read here yet
+# samuraiyamma.github.io
+A simple website dedicated to the expenditure of time on code.
